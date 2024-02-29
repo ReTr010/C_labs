@@ -1,0 +1,10 @@
+MatAnaliz 2022 FEN KMA 60
+AlgebraGeometria 2021 FEN KAG 45
+TeorVer 2023 FEN TViMC 50
+DiskrMath 2020 FIT KDMiML 70
+PriklMath 2017 FIT KPM 60
+MatModelir 2018 FEN MM 65
+TeorGraf 2019 FEN DMiML 40
+BazaDannih 2024 FIT BD 50
+ProcProgr 2024 CIM CIM 30
+MatFizica 2022 FEN MF 70
